@@ -204,6 +204,9 @@ void loop() {
   display.println(timeClient.getFormattedTime());
   display.print("IP: ");
   display.println(WiFi.localIP());
+  display.println();
+  display.print("ROUTER: ");
+  display.println(router);
   display.print("In:  ");
   display.print(bandwidthInUtilPct);
   display.println("%");
