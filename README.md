@@ -5,6 +5,7 @@ The purpose of the project was to collect network information from an interface 
 It uses libraries that already exist to fulfill the objective.
 
 ESP8266 + Display (SH1106_128x64QTPY)
+Working in Swicth (Cisco Catalyst 2950 series)
 
 ### NTP:
 https://github.com/arduino-libraries/NTPClient
